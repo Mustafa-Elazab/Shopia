@@ -1,0 +1,12 @@
+const LOGIN='login';
+const HOMEDATA='home';
+const REGISTER='register';
+const GET_CATEGORIES='categories';
+const FAVORITES='favorites';
+const PROFILE='profile';
+const UPDATEUSER='update-profile';
+const PRODUCT_SEARCH='products/search';
+const CART='carts';
+const NOTIFICATIONS='notifications';
+const SETTINGS ='settings';
+const FAQS='faqs';
